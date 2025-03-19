@@ -1,13 +1,13 @@
 import React from 'react'
 import Media from '../Component/Solutions/Media/Media'
 export const metadata = {
-  title: "Top WhatsApp Business for Media & Entertainment in Bangalore",
-  description: "Get WhatsApp API solutions for businesses in Bangalore with top Bulk WhatsApp Messaging Services for media & entertainment, marketing, and communication.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Media & Entertainment",
+  title: "WhatsApp API Solutions for Media & Entertainment Industry",
+  description: "Engage audiences, promote events, and deliver rich media content seamlessly with our WhatsApp API solutions tailored for the media and entertainment industry.",
+  keywords: "WhatsApp API for Entertainment Industry,customer engagement,sales optimization,WhatsApp Audience Interaction,WhatsApp Business for Media & Entertainment",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/media/" }],
   openGraph: {
-    title: "Top WhatsApp Business for Media & Entertainment in Bangalore",
-    description: "Get WhatsApp API solutions for businesses in Bangalore with top Bulk WhatsApp Messaging Services for media & entertainment, marketing, and communication.",
+    title: "WhatsApp API Solutions for Media & Entertainment Industry",
+    description: "Engage audiences, promote events, and deliver rich media content seamlessly with our WhatsApp API solutions tailored for the media and entertainment industry..",
     url: "https://www.a2zsms.in/media/",
     siteName: "A2ZSMS",
     images: [
@@ -22,8 +22,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Top WhatsApp Business for Media & Entertainment in Bangalore",
-    description: "Get WhatsApp API solutions for businesses in Bangalore with top Bulk WhatsApp Messaging Services for media & entertainment, marketing, and communication.",
+    title: "WhatsApp API Solutions for Media & Entertainment Industry",
+    description: "Engage audiences, promote events, and deliver rich media content seamlessly with our WhatsApp API solutions tailored for the media and entertainment industry..",
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },

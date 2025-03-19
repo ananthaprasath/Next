@@ -3,7 +3,7 @@ import React from 'react'
 const Mar10 = () => {
   return (
     <>
-     <div className='container aos para-color'>
+     <div className='container aos para-color3'>
      <h1 className='text-primary mt-3'>Best WhatsApp Marketing Service Provider in Bangalore</h1>
       <h2 className='fw-bold'>Introduction</h2>
       <p>In today's fast-paced digital world, businesses need innovative and effective communication strategies to stay ahead of the competition. One such powerful tool is WhatsApp marketing, which has proven to be a game-changer for businesses looking to connect with their audience in a personalized and direct manner. When it comes to finding the best WhatsApp marketing service provider in Bangalore, A2ZSMS stands out as the top choice. With our tailored solutions, businesses can enhance their communication, improve customer engagement, and drive growth effectively.

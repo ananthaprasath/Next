@@ -3,7 +3,7 @@ import BlogList from "./client";
 
 // Updated metadata for the blogs page
 export const metadata = {
-  title: 'WhatsApp Business API Provider in Bangalore',
+  title: 'WhatsApp Business API',
   description: 'Get the top Bulk WhatsApp Messaging Services in Bangalore & RCS Message Service in India with Promotional Voice Services,bulk whatsapp messaging services in bangalore.',
   keywords: "SMS marketing blogs, WhatsApp API blogs, voice services blogs, A2ZSMS blogs, bulk SMS insights",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/blogs/" }],
@@ -20,7 +20,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: 'WhatsApp Business API Provider in Bangalore',
+    title: 'WhatsApp Business API',
     description: 'Get the top Bulk WhatsApp Messaging Services in Bangalore & RCS Message Service in India with Promotional Voice Services,bulk whatsapp messaging services in bangalore.',
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",

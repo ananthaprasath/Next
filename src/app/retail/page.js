@@ -1,13 +1,13 @@
 import React from 'react'
 import Retail from '../Component/Solutions/Retail/Retail'
 export const metadata = {
-  title: "Top Bulk WhatsApp Messaging & Business Solutions for Retail & E-commerce",
-  description: "Get WhatsApp Business for Retail & E-commerce with top Bulk WhatsApp Messaging Services in Bangalore to enhance communication and marketing effortlessly.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Retail & E-commerce",
+  title: "Transform Your Retail & E-commerce with WhatsApp API",
+  description: "Boost retail & e-commerce sales with WhatsApp API. Automate orders, send real-time updates, recover abandoned carts, and engage customers instantly.",
+  keywords: "WhatsApp API for Retail,Personalized Retail Promotions,WhatsApp Business API for E-commerce, WhatsApp Business for Retail & E-commerce",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/retail/" }],
   openGraph: {
-    title: "Top Bulk WhatsApp Messaging & Business Solutions for Retail & E-commerce",
-    description: "Get WhatsApp Business for Retail & E-commerce with top Bulk WhatsApp Messaging Services in Bangalore to enhance communication and marketing effortlessly.",
+    title: "Transform Your Retail & E-commerce with WhatsApp API",
+    description: "Boost retail & e-commerce sales with WhatsApp API. Automate orders, send real-time updates, recover abandoned carts, and engage customers instantly.",
     url: "https://www.a2zsms.in/retail/",
     siteName: "A2ZSMS",
     images: [
@@ -22,8 +22,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Top Bulk WhatsApp Messaging & Business Solutions for Retail & E-commerce",
-    description: "Get WhatsApp Business for Retail & E-commerce with top Bulk WhatsApp Messaging Services in Bangalore to enhance communication and marketing effortlessly.",
+    title: "Transform Your Retail & E-commerce with WhatsApp API",
+    description: "Boost retail & e-commerce sales with WhatsApp API. Automate orders, send real-time updates, recover abandoned carts, and engage customers instantly.",
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },

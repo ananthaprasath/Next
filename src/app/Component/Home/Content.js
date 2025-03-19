@@ -32,7 +32,7 @@ const Content = () => {
       title: 'RCS Service',
       description:
         'Elevate your customer engagement with visually stunning RCS messages. Share high-quality images, captivating videos, and interactive buttons for an immersive messaging experience that boosts conversions.',
-      link: '/rcs-sms',
+      link: '/rcs-service',
       icon: 'bi bi-layout-text-sidebar-reverse',
       animation: 'zoom-in-right',
     },

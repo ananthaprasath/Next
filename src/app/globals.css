@@ -72,6 +72,17 @@ body {
   font-family: 'inter' !important;
   line-height: 40px;
 }
+.para-color3{
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Open Sans' !important;
+  line-height: 32px;
+}
+.font2 {
+  font-family: EB Garamond, serif;
+  font-size: 32px;
+  font-weight: 700;
+}
 .price-bg{
   background-image: url('/image/pricing-bg.jpg');
   background-repeat: no-repeat;

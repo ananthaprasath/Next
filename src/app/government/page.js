@@ -1,13 +1,13 @@
 import React from 'react'
 import Government from '../Component/Solutions/Government/Government'
 export const metadata = {
-  title: "Top Bulk WhatsApp Messaging & Business for Government Communication",
-  description: "Get WhatsApp Business for Government Communication and API solutions in Bangalore to enhance seamless messaging, marketing, and business communication.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Government Communication",
+  title: "Enhance Government Outreach with WhatsApp Solutions",
+  description: "Utilize WhatsApp for instant citizen notifications, secure OTP verifications, and interactive campaigns to improve public engagement and service delivery .",
+  keywords: ", Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Government Communication",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/government/" }],
   openGraph: {
-    title: "Top Bulk WhatsApp Messaging & Business for Government Communication",
-    description: "Get WhatsApp Business for Government Communication and API solutions in Bangalore to enhance seamless messaging, marketing, and business communication.",
+    title: "Enhance Government Outreach with WhatsApp Solutions",
+    description: "Utilize WhatsApp for instant citizen notifications, secure OTP verifications, and interactive campaigns to improve public engagement and service delivery.",
     url: "https://www.a2zsms.in/government/",
     siteName: "A2ZSMS",
     images: [
@@ -22,8 +22,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Top Bulk WhatsApp Messaging & Business for Government Communication",
-    description: "Get WhatsApp Business for Government Communication and API solutions in Bangalore to enhance seamless messaging, marketing, and business communication.",
+    title: "Enhance Government Outreach with WhatsApp Solutions",
+    description: "Utilize WhatsApp for instant citizen notifications, secure OTP verifications, and interactive campaigns to improve public engagement and service delivery.",
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },

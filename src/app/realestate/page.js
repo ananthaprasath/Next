@@ -2,13 +2,13 @@ import React from 'react'
 import RealEstate from '../Component/Solutions/RealEstate/RealEstate'
 
 export const metadata = {
-  title: 'WhatsApp Business API for real estate digital marketing',
-  description: "Get WhatsApp Business API for real estate digital marketing in Bangalore. Enhance seamless communication & marketing with Bulk WhatsApp Messaging Services.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business API for real estate digital marketing",
+  title: "WhatsApp Business Solutions for Real Estate:Engage & Convert Buyers",
+  description: "Boost real estate sales with WhatsApp Business. Connect instantly, share property listings, schedule visits, and convert leads faster with seamless communication.",
+  keywords: "Instant Lead Generation,WhatsApp Business API for real estate digital marketing,Instant Buyer Engagement",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/realestate/" }],
   openGraph: {
-    title: 'WhatsApp Business API for real estate digital marketing',
-    description: "Get WhatsApp Business API for real estate digital marketing in Bangalore. Enhance seamless communication & marketing with Bulk WhatsApp Messaging Services.",
+    title: "WhatsApp Business Solutions for Real Estate:Engage & Convert Buyers",
+    description: "Boost real estate sales with WhatsApp Business. Connect instantly, share property listings, schedule visits, and convert leads faster with seamless communication.",
     url: "https://www.a2zsms.in/realestate/",
     siteName: "A2ZSMS",
     images: [
@@ -23,8 +23,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: 'WhatsApp Business API for real estate digital marketing',
-    description: "Get WhatsApp Business API for real estate digital marketing in Bangalore. Enhance seamless communication & marketing with Bulk WhatsApp Messaging Services.",
+    title: "WhatsApp Business Solutions for Real Estate:Engage & Convert Buyers",
+    description: "Boost real estate sales with WhatsApp Business. Connect instantly, share property listings, schedule visits, and convert leads faster with seamless communication.",
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },

@@ -1,12 +1,12 @@
 import Home from './Component/Home/Home';
 
 export const metadata = {
-  title: 'Top Bulk WhatsApp Messaging Services in Bangalore',
+  title: 'WhatsApp Messaging Services in Bangalore',
   description: 'Get top Bulk WhatsApp Messaging Services in Bangalore & the Best WhatsApp Marketing Service in Hyderabad with our API solutions for seamless business communication.',
   keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in" }],
   openGraph: {
-    title: 'Top Bulk WhatsApp Messaging Services in Bangalore',
+    title: 'WhatsApp Messaging Services in Bangalore',
     description: 'Get top Bulk WhatsApp Messaging Services in Bangalore & the Best WhatsApp Marketing Service in Hyderabad with our API solutions for seamless business communication.',
     url: "https://www.a2zsms.in",
     siteName: "A2ZSMS",
@@ -22,7 +22,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: 'Top Bulk WhatsApp Messaging Services in Bangalore',
+    title: 'WhatsApp Messaging Services in Bangalore',
     description: 'Get top Bulk WhatsApp Messaging Services in Bangalore & the Best WhatsApp Marketing Service in Hyderabad with our API solutions for seamless business communication.',
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",

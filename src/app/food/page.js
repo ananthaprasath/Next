@@ -1,21 +1,23 @@
 import React from 'react'
 import Food from '../Component/Solutions/Food/Food'
 export const metadata = {
-  title: "Top WhatsApp Business for Food & Beverage in Bangalore",
-  description: "Get WhatsApp Business for Food & Beverage in Bangalore with top bulk messaging services to boost communication and marketing for your business.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Food & Beverage",
+  title: "WhatsApp Solutions for Food & Beverage Industry",
+  description: "Enhance your food business with WhatsApp: send promotions, manage orders, provide real-time updates, and engage customers effectively.",
+  keywords: "WhatsApp Business API for Food Industry, WhatsApp Marketing for Food and Beverage,WhatsApp Broadcast for Restaurants, WhatsApp Business for Food & Beverage",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/food/" }],
   openGraph: {
-    title: "Top WhatsApp Business for Food & Beverage in Bangalore",
-    description: "Get WhatsApp Business for Food & Beverage in Bangalore with top bulk messaging services to boost communication and marketing for your business.",
+    title: "WhatsApp Solutions for Food & Beverage Industry",
+  description: "Enhance your food business with WhatsApp: send promotions, manage orders, provide real-time updates, and engage customers effectively.",
+
     url: "https://www.a2zsms.in/food/",
     siteName: "A2ZSMS",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Top WhatsApp Business for Food & Beverage in Bangalore",
-    description: "Get WhatsApp Business for Food & Beverage in Bangalore with top bulk messaging services to boost communication and marketing for your business.",
+    title: "WhatsApp Solutions for Food & Beverage Industry",
+   description: "Enhance your food business with WhatsApp: send promotions, manage orders, provide real-time updates, and engage customers effectively.",
+
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },

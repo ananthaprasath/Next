@@ -3,7 +3,7 @@ import "./Header.css";
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDoubleRight, faPaperPlane } from "@fortawesome/free-solid-svg-icons";
-import { faFacebookF, faLinkedinIn, faWhatsapp, faYoutube } from "@fortawesome/free-brands-svg-icons";
+import { faFacebookF, faLinkedinIn, faWhatsapp, faYoutube, faXTwitter,faInstagram  } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
   return (
@@ -131,9 +131,16 @@ const Footer = () => {
               <Link href="https://wa.me/918431086185?text=Hi" className="text-white me-3 fs-5 bg-success rounded-circle d-flex justify-content-center align-items-center" target="_blank" style={{ width: "40px", height: "40px" }}>
                 <FontAwesomeIcon icon={faWhatsapp} />
               </Link>
-              <Link href="https://www.youtube.com/@a2zsms" className="text-white fs-5 bg-danger rounded-circle d-flex justify-content-center align-items-center" target="_blank" style={{ width: "40px", height: "40px" }}>
+              <Link href="https://www.youtube.com/@a2zsms" className="text-white me-3 fs-5 bg-danger rounded-circle d-flex justify-content-center align-items-center" target="_blank" style={{ width: "40px", height: "40px" }}>
                 <FontAwesomeIcon icon={faYoutube} />
               </Link>
+              <Link href="https://x.com/A2zSmsin" className="text-white fs-5 me-3 bg-dark rounded-circle d-flex justify-content-center align-items-center" target="_blank" style={{ width: "40px", height: "40px" }}>
+              <FontAwesomeIcon icon= {faXTwitter} />
+              </Link>
+              <Link  href="https://www.instagram.com/a2z.sms/" className="text-white fs-5 rounded-circle d-flex justify-content-center align-items-center" target="_blank"  
+                style={{ width: "40px", height: "40px",backgroundImage: "linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf,rgb(200, 16, 228))" }} >  
+              <FontAwesomeIcon icon= {faInstagram} />  
+               </Link>
             </div>
           </div>
         </div>

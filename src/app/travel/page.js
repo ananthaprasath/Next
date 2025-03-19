@@ -2,13 +2,13 @@ import React from 'react'
 import Travel from '../Component/Solutions/Travel/Travel'
 
 export const metadata = {
-  title: "Top Bulk WhatsApp Messaging & Business for Travel in Bangalore",
-  description: "Get WhatsApp Business for Travel and Tourism with top Bulk WhatsApp Messaging Services in Bangalore to enhance seamless communication and marketing.",
-  keywords: "Top Bulk WhatsApp Messaging Services in Bangalore, Best WhatsApp marketing services in Bangalore, SMS marketing, WhatsApp bulk messaging service providers Bangalore, WhatsApp Business for Travel and Tourism",
+  title: "Boost Tours & Travel Business with WhatsApp Solutions",
+  description: "Enhance your tours & travel business with WhatsApp API. Automate bookings, share itineraries, send real-time updates & engage customers instantly.",
+  keywords: "Automated WhatsApp Messages for Tourism,WhatsApp Marketing for Travel Agencies,Real-Time Travel Updates on WhatsApp,WhatsApp Business API Integration",
   authors: [{ name: "A2ZSMS", url: "https://www.a2zsms.in/travel/" }],
   openGraph: {
-    title: "Top Bulk WhatsApp Messaging & Business for Travel in Bangalore",
-    description: "Get WhatsApp Business for Travel and Tourism with top Bulk WhatsApp Messaging Services in Bangalore to enhance seamless communication and marketing.",
+    title: "Boost Tours & Travel Business with WhatsApp Solutions",
+    description: "Enhance your tours & travel business with WhatsApp API. Automate bookings, share itineraries, send real-time updates & engage customers instantly.",
     url: "https://www.a2zsms.in/travel/",
     siteName: "A2ZSMS",
     images: [
@@ -23,8 +23,8 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Top Bulk WhatsApp Messaging & Business for Travel in Bangalore",
-    description: "Get WhatsApp Business for Travel and Tourism with top Bulk WhatsApp Messaging Services in Bangalore to enhance seamless communication and marketing.",
+    title: "Boost Tours & Travel Business with WhatsApp Solutions",
+    description: "Enhance your tours & travel business with WhatsApp API. Automate bookings, share itineraries, send real-time updates & engage customers instantly.",
     images: ["/images/meta-image.jpg"],
     site: "@yourtwitterhandle",
   },
