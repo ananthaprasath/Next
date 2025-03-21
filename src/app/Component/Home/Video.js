@@ -35,7 +35,7 @@ const Video = () => {
             results.
           </p>
           <div className="action-buttons gap-3 w-100">
-            <Link href="/whatsapp">
+            <Link href="/whatsapp-api">
               <button className="btn btn-outline-light px-4 me-2 mb-2">
                 Learn More
               </button>

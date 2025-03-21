@@ -56,7 +56,7 @@ const Home = () => {
           <div className="col-md-6 text-center" data-aos="fade-left">
             <img
               className="img-fluid rounded"
-              src="/image/product/Whatsapp.png"
+              src="/image/Product/Whatsapp.png"
               alt="Image"
             />
           </div>
